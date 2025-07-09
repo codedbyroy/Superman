@@ -9,6 +9,8 @@ body {
     background-image: url("sup.webp");
     background-size: cover;
     padding: 30px 0 80px 0;
+    min-height: 100vh;
+
 }
 
 #main-logo {
